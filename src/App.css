@@ -1,0 +1,61 @@
+/* #root {
+  font-family: Satoshi, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+}
+* {
+  margin: 0;
+  padding: 0;
+  font-size: 1.4rem;
+}
+
+html {
+  background-color: #242424;
+  color: white;
+  font-family: "Satoshi";
+  font-size: 62.5%;
+  height: 100%;
+}
+@font-face {
+  font-family: "SyneVW";
+  src: url("https://sing-strong.s3.us-east-2.amazonaws.com/website/font/Syne-VariableFont_wght.ttf");
+}
+
+@font-face {
+  font-family: "SyneB";
+  src: url("https://sing-strong.s3.us-east-2.amazonaws.com/website/font/Syne-Bold.ttf");
+}
+
+@font-face {
+  font-family: "SyneE";
+  src: url("https://sing-strong.s3.us-east-2.amazonaws.com/website/font/Syne-ExtraBold.ttf");
+}
+
+@font-face {
+  font-family: "SyneM";
+  src: url("https://sing-strong.s3.us-east-2.amazonaws.com/website/font/Syne-Medium.ttf");
+}
+
+@font-face {
+  font-family: "SyneR";
+  src: url("https://sing-strong.s3.us-east-2.amazonaws.com/website/font/Syne-Regular.ttf");
+}
+
+@font-face {
+  font-family: "SyneS";
+  src: url("https://sing-strong.s3.us-east-2.amazonaws.com/website/font/Syne-SemiBold.ttf");
+}
+
+@font-face {
+  font-family: "Satoshi";
+  src: url("https://sing-strong.s3.us-east-2.amazonaws.com/website/font/Satoshi-Variable.ttf");
+} */
